@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Test the branch managerment.
+Test the dev branch git merge.
